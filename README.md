@@ -35,6 +35,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Array
@@ -50,12 +51,14 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 ## Linked List
