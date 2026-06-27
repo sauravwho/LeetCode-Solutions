@@ -29,6 +29,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## String
@@ -41,6 +42,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -54,6 +56,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0002-add-two-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
