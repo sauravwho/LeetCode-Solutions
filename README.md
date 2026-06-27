@@ -1,0 +1,24 @@
+# LeetCode Solutions
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sauravbuilds-orange?logo=leetcode)](https://leetcode.com/u/sauravbuilds)
+[![GitHub Streak](https://img.shields.io/badge/Streak-Auto--synced%20via%20LeetHub-brightgreen)](https://github.com/sauravwho)
+
+My daily DSA practice, solved in **Java**, auto-synced from LeetCode using LeetHub. Building this up as part of placement prep for SWE internships (Google / Microsoft focus).
+
+## 📁 Structure
+
+Each problem gets its own folder, auto-generated on submission:
+
+```
+0001-two-sum/
+├── README.md      # Problem statement
+├── Solution.java   # My solution
+└── NOTES.md        # Approach, complexity, edge cases (if added)
+```
+## 🔗 Links
+
+- LeetCode: [leetcode.com/u/sauravbuilds](https://leetcode.com/u/sauravbuilds)
+- LinkedIn: [linkedin.com/in/saurav-kumar-885a9a385](https://linkedin.com/in/saurav-kumar-885a9a385)
+
+---
+*Auto-synced via [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0). Manual backfill in progress for older submissions.*
