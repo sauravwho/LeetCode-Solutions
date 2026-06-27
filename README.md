@@ -45,6 +45,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -84,6 +85,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
