@@ -48,6 +48,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -57,6 +58,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
