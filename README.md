@@ -22,3 +22,15 @@ Each problem gets its own folder, auto-generated on submission:
 
 ---
 *Auto-synced via [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0). Manual backfill in progress for older submissions.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+<!---LeetCode Topics End-->
