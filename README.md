@@ -35,4 +35,12 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
