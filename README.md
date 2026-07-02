@@ -57,6 +57,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0136-single-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -124,6 +125,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
