@@ -3,11 +3,9 @@ class Solution {
         int max = Integer.MIN_VALUE;
         int sum = 0;
         for(int i = 0; i<nums.length; i++){
-            if(sum<0){
-                sum = 0;
-            }
+            sum = sum<0?0:sum;
             sum += nums[i];
-            max = Math.max(max, sum);
+            max = max<sum?sum:max;
         }
         return max;
     }
