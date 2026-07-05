@@ -68,6 +68,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -146,6 +147,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -192,4 +194,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 <!---LeetCode Topics End-->
