@@ -115,6 +115,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0069-sqrtx](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
@@ -222,6 +223,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0190-reverse-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
