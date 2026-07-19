@@ -181,6 +181,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0053-maximum-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -239,6 +240,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0191-number-of-1-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String Matching
