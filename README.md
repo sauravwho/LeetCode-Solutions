@@ -30,6 +30,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
@@ -67,6 +68,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0011-container-with-most-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -212,6 +214,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
