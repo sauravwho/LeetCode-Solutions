@@ -14,7 +14,7 @@ class Solution {
         if(n <=2){
             return n;
         }
-        int len = 32-Integer.numberOfLeadingZeros(n);
-        return 1<<len;
+        //int len = 32-Integer.numberOfLeadingZeros(n);
+        return 1<<(32-Integer.numberOfLeadingZeros(n));
     }
 }
