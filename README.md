@@ -145,6 +145,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1925-count-square-sum-triples](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -230,6 +231,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
