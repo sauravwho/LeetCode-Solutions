@@ -64,6 +64,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
@@ -247,6 +249,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
