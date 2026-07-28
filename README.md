@@ -56,6 +56,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0020-valid-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -131,6 +132,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0009-palindrome-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
@@ -360,6 +362,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
