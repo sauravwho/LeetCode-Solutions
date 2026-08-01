@@ -103,6 +103,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0704-binary-search](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -126,6 +127,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -256,6 +258,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0324-wiggle-sort-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -267,6 +270,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
