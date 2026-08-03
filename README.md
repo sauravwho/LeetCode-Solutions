@@ -64,6 +64,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -133,6 +134,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -266,6 +268,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
@@ -282,6 +285,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -415,6 +419,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -447,4 +452,5 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
