@@ -39,6 +39,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0042-trapping-rain-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -130,6 +131,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -187,6 +189,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0021-merge-two-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -481,4 +484,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
