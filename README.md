@@ -63,6 +63,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -135,6 +136,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -271,6 +273,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
