@@ -126,6 +126,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -152,6 +153,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -315,6 +317,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -509,10 +512,12 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
