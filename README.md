@@ -136,6 +136,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -167,6 +168,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
