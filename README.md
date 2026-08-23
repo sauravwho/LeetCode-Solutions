@@ -70,6 +70,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -167,6 +168,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -341,6 +343,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
