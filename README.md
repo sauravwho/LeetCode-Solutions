@@ -26,8 +26,8 @@ Each problem gets its own folder, auto-generated on submission:
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
@@ -47,8 +47,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
@@ -79,8 +79,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3499-maximize-active-section-with-trade-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
@@ -150,8 +150,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
@@ -181,8 +181,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
@@ -221,8 +221,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -232,8 +232,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [0206-reverse-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -242,8 +242,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [0231-power-of-two](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -255,8 +255,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [0704-binary-search](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -271,8 +271,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -290,16 +290,16 @@ Each problem gets its own folder, auto-generated on submission:
 | [0746-min-cost-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -310,8 +310,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -337,8 +337,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [3731-find-missing-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -351,24 +351,24 @@ Each problem gets its own folder, auto-generated on submission:
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -383,25 +383,25 @@ Each problem gets its own folder, auto-generated on submission:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -411,41 +411,41 @@ Each problem gets its own folder, auto-generated on submission:
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1925-count-square-sum-triples](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -463,8 +463,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -478,13 +478,13 @@ Each problem gets its own folder, auto-generated on submission:
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -502,14 +502,14 @@ Each problem gets its own folder, auto-generated on submission:
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0043-multiply-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
@@ -518,12 +518,12 @@ Each problem gets its own folder, auto-generated on submission:
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -533,15 +533,15 @@ Each problem gets its own folder, auto-generated on submission:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0324-wiggle-sort-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -549,8 +549,8 @@ Each problem gets its own folder, auto-generated on submission:
 | [0078-subsets](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -559,30 +559,30 @@ Each problem gets its own folder, auto-generated on submission:
 | [0226-invert-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
