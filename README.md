@@ -111,6 +111,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0078-subsets](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -164,6 +165,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0036-valid-sudoku](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -267,6 +269,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0004-median-of-two-sorted-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
@@ -464,6 +467,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0102-binary-tree-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -510,6 +514,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0102-binary-tree-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
