@@ -300,6 +300,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0091-decode-ways](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0338-counting-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0494-target-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
@@ -480,6 +481,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -498,6 +500,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0101-symmetric-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -528,6 +531,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -632,4 +636,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
