@@ -170,6 +170,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0073-set-matrix-zeroes](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -242,6 +243,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
