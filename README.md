@@ -164,6 +164,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +242,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
