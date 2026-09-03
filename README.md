@@ -65,6 +65,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0091-decode-ways](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -119,6 +120,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -178,6 +180,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -312,6 +315,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0312-burst-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0338-counting-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -400,6 +404,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -483,6 +488,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -677,4 +683,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
