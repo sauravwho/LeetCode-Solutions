@@ -64,6 +64,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -314,6 +315,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0070-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
