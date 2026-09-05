@@ -62,6 +62,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0049-group-anagrams](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0076-minimum-window-substring](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -179,6 +180,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0036-valid-sudoku](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -458,6 +460,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
