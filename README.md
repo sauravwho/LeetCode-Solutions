@@ -127,6 +127,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0136-single-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -299,6 +300,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0035-search-insert-position](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
