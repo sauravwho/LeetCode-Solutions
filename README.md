@@ -130,6 +130,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -341,6 +342,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0338-counting-bits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
