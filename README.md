@@ -67,6 +67,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0097-interleaving-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -342,6 +343,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0115-distinct-subsequences](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -662,6 +664,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0046-permutations](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
