@@ -249,6 +249,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -631,6 +632,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
