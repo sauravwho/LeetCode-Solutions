@@ -131,6 +131,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0134-gas-station](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -246,6 +247,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
@@ -486,6 +488,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0143-reorder-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
