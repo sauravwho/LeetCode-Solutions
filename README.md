@@ -154,6 +154,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0494-target-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -516,6 +517,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0074-search-a-2d-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 ## Sliding Window
@@ -549,6 +551,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
@@ -608,6 +611,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0332-reconstruct-itinerary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -708,6 +712,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
