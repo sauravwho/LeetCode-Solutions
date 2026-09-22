@@ -46,6 +46,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0189-rotate-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -79,6 +80,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
+| [0647-palindromic-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [0771-jewels-and-stones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -373,6 +375,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0494-target-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0647-palindromic-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
