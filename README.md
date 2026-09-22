@@ -86,6 +86,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -377,6 +378,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -403,6 +405,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -468,6 +471,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0070-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
