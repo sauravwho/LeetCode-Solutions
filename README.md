@@ -88,6 +88,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0940-distinct-subsequences-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
@@ -521,6 +522,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0155-min-stack](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -820,4 +822,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
