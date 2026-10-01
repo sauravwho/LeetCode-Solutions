@@ -91,6 +91,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
@@ -178,6 +179,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -235,6 +237,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
