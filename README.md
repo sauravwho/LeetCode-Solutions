@@ -395,6 +395,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0518-coin-change-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -595,6 +596,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -652,6 +654,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
@@ -722,6 +725,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -759,6 +763,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -846,4 +851,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
