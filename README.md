@@ -84,6 +84,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0647-palindromic-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [0771-jewels-and-stones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -394,6 +395,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -423,6 +425,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0055-jump-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -530,6 +533,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -844,6 +848,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
