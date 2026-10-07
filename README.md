@@ -313,6 +313,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -326,6 +327,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0002-add-two-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
