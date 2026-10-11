@@ -194,6 +194,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2256-minimum-average-difference](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2256-minimum-average-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -588,6 +589,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
