@@ -1,16 +1,15 @@
 class Solution {
     public int sumCounts(List<Integer> nums) {
         int n = nums.size();
-        long res = 0;
-        long mod = 1000000007L;
+        int res = 0;
         for(int i = 0; i<n; i++){
             Set<Integer> dist = new HashSet<>();
             for(int j = i; j<n; j++){
                 dist.add(nums.get(j));
                 int count = dist.size();
-                res = (res+ (long)count*count) % mod;
+                res +=(count*count);
             }
         }
-        return (int) res;
+        return res;
     }
 }
