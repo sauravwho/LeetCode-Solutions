@@ -197,6 +197,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2778-sum-of-squares-of-special-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -251,6 +252,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -502,6 +504,7 @@ Each problem gets its own folder, auto-generated on submission:
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
@@ -889,4 +892,8 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
