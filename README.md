@@ -111,6 +111,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3498-reverse-degree-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
