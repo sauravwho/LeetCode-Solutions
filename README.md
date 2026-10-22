@@ -660,6 +660,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -683,6 +684,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0104-maximum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -726,6 +728,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -806,6 +809,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0104-maximum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
