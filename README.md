@@ -215,6 +215,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -601,6 +602,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +640,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -711,6 +714,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -826,6 +830,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
