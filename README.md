@@ -38,6 +38,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -144,6 +145,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0066-plus-one](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -476,6 +478,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0015-3sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -940,4 +943,12 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
