@@ -144,6 +144,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0053-maximum-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -614,6 +615,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0036-valid-sudoku](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -795,6 +797,7 @@ Each problem gets its own folder, auto-generated on submission:
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
