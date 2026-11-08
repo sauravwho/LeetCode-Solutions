@@ -195,6 +195,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -529,6 +530,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2013-detect-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2013-detect-squares/) | Medium |
@@ -623,6 +625,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sliding Window
@@ -660,6 +663,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0200-number-of-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -740,6 +744,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0753-cracking-the-safe](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0753-cracking-the-safe/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -865,6 +870,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Design
