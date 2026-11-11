@@ -340,6 +340,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -489,6 +490,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
