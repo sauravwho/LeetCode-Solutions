@@ -221,6 +221,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3206-alternating-groups-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
