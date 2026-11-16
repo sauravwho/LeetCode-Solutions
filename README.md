@@ -107,6 +107,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -825,6 +826,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0067-add-binary](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
