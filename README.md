@@ -216,6 +216,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2089-find-target-indices-after-sorting-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2256-minimum-average-difference](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2256-minimum-average-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -495,6 +496,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -530,6 +532,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1833-maximum-ice-cream-bars](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
