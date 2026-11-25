@@ -255,6 +255,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3876-construct-uniform-parity-array-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +303,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [3731-find-missing-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +413,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -940,6 +943,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1035,4 +1039,12 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/sauravwho/LeetCode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
