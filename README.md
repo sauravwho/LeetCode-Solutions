@@ -190,6 +190,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0485-max-consecutive-ones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0695-max-area-of-island](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -282,6 +283,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0268-missing-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0771-jewels-and-stones](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1122-relative-sort-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -332,6 +334,7 @@ Each problem gets its own folder, auto-generated on submission:
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -480,6 +483,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -1017,6 +1021,7 @@ Each problem gets its own folder, auto-generated on submission:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sauravwho/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
